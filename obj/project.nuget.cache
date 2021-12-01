@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d51OSht2hfNPbtMJ1iH+yAPe5B1u6c1OvH1W4K52qJO4yCG82nyIzoQ07zGAsViI/+H4T9SSUwA2LYnAYZf8HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PriyaG3\\Desktop\\Impact\\Docker\\DockerApplication\\DockerApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PriyaG3\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
